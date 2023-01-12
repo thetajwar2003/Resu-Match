@@ -1,0 +1,10 @@
+{
+  "name": "Resu-Match",
+  "description": "Resume Matching Chrome Extension",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_title": "Resu-Match",
+    "default_popup": "index.html"
+  }
+}
